@@ -5,10 +5,10 @@
 + interests
 field_of_interest: "Frontend Development"
 currently_learning: ["React", "JavaScript"]
-planning_to_learn: ["NodeJS" || "Next.js"]
+planning_to_learn: ["NodeJS" || "TypeScript"]
 
 + about me
-yearly_goals: "Gain good knowledge on React, get comfortable with TypeScript and delve into Next.js or NodeJS"
+yearly_goals: "Gain good knowledge on React, get comfortable with TypeScript and delve into NodeJS"
 hobbies: ["3D printing", "electronics", "gaming", "aviation sims"]
 ```
 
